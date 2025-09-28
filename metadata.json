@@ -1,0 +1,5 @@
+{
+  "name": "CuraTrack 1.4",
+  "description": "A web application to manage your medicines and medical records in one safe place, with features to track medicine expiry and organize documents by patient.",
+  "requestFramePermissions": []
+}
